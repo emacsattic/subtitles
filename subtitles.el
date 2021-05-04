@@ -1,5 +1,5 @@
-;; -*- mode: emacs-lisp; coding: hebrew-iso-8bit-unix -*-
-;; subtitles.el - work on .srt (subripper) subtitle files
+;;; subtitles.el --- work on .srt (subripper) subtitle files  -*- coding: hebrew-iso-8bit-unix -*-
+
 ;; Copyright (C) 2009 Ehud karni <ehud@unix.mvs.co.il>
 
 ;; This file is NOT part of GNU Emacs, distribution conditions below.
